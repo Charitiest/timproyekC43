@@ -8,7 +8,7 @@ form, input, div {
 }
 
 body {
-  font-family: "Avenir Next";
+  font-family: "Comic Sans MS";
 }
 
 li {
@@ -24,7 +24,7 @@ li {
 
 .header-logo {
   float: left;
-  font-size: 60px;
+  font-size: 80px;
   padding: 30px 40px;
 }
 
