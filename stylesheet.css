@@ -205,7 +205,7 @@ footer
  
  
 /*untuk tablet*/
-@media screen and (max-width:1080px)
+@media screen and (max-width:1000px)
 {
     .badan-utama
     {
@@ -232,7 +232,7 @@ footer
 }
  
 /*untuk android*/
-@media screen and (max-width:780px)
+@media screen and (max-width:670px)
 {
     header h2, header p
     {
