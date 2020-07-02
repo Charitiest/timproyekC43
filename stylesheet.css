@@ -17,15 +17,15 @@ li {
 
 /* Ketik code Anda dibawah */
 .header {
-  background-color: #26d0c9;
+  background-color: #f0932b;
   color: #fff;
-  height: 90px;
+  height: 120px;
 }
 
 .header-logo {
   float: left;
-  font-size: 36px;
-  padding: 20px 40px;
+  font-size: 40px;
+  padding: 30px 60px;
 }
 
 .header-list {
