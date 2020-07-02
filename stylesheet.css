@@ -19,13 +19,12 @@ body
     overflow: hidden;
 }
  
-header
-{
-    background-color: #7ed6df;
-    color: #ffbe76;
-    padding: 20px;
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 80px;
 }
- 
+
 header h2
 {
     margin-bottom: 7px;
