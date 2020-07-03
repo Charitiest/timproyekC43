@@ -48,10 +48,16 @@ header
  
 header h2
 {
-    margin-bottom: 72px;
+    margin-bottom: 14px;
     font-size: 72px;
 }
- 
+
+header p
+{
+    margin-bottom: 50px;
+    font-size: 17px;
+}   
+
 .navigasi ul 
 {
     list-style-type: none;
