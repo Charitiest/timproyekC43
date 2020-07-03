@@ -211,3 +211,18 @@ footer {
   padding: 21px 0;
   display: none;
 }
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .header-right {
+    display: none;
+  }
+  
+  .menu-icon {
+    display: block;
+  }
+}
