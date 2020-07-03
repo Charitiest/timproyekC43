@@ -49,13 +49,13 @@ header
 header h2
 {
     margin-bottom: 14px;
-    font-size: 72px;
+    font-size: 80px;
 }
 
 header p
 {
     margin-bottom: 50px;
-    font-size: 17px;
+    font-size: 30px;
 }   
 
 .navigasi ul 
@@ -66,7 +66,7 @@ header p
     overflow: hidden;
     background-color:darkorange;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 21px;
+    font-size: 24px;
     font-weight: bold;
 }
  
